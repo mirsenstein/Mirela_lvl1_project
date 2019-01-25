@@ -2,20 +2,18 @@ body {
 	background-image: url("img/matrix_letters.gif");
 }
 
-/*#instructions{
-	
-	margin: auto;
-	margin-top: 50px;
- 	width: 60%;
- 	padding: 10px;
-
-}*/
 p {
-	text-align: justify;
+	text-align: center;
 	font-size: 20px;
 	font-family: comfortaa;
 	color: #fff;
 }
+
+#results {
+	font-size: 40px;
+	color: #73AD21;
+}
+
 #form, #instructions {
 	margin: auto;
 	margin-top: 50px;
@@ -26,6 +24,7 @@ p {
 	border-radius: 10px;
 	background-color: #000;
 }
+
 input {
 	width: 100%;
 	height: 50px;
@@ -45,6 +44,7 @@ input::placeholder{
 input:focus::placeholder{
 	color: #fff;
 }
+
 button{
 	font-weight: bold;
 	font-size: 20px;
