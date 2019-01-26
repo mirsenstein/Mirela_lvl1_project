@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 <?php
 echo '<link rel="stylesheet" href="style.css">
-	<title>Document</title>
+	<title>The string fixer</title>
 </head>
 
 <body>
